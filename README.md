@@ -48,7 +48,7 @@
             Você é a razão do meu coração bater mais forte. Obrigado(a) por existir e me fazer tão feliz.
         </p>
         <p>
-            Com todo o meu amor,<br> [Seu Nome]
+            Com todo o meu amor,<br> [Eduardo]
         </p>
         <footer>
             <p>Essa página foi feita especialmente para você ❤️</p>
